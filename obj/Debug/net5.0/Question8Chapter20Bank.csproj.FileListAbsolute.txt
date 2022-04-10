@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\Question8Chapter20Bank.exe
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\Question8Chapter20Bank.deps.json
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\Question8Chapter20Bank.runtimeconfig.json
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\Question8Chapter20Bank.runtimeconfig.dev.json
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\Question8Chapter20Bank.dll
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\ref\Question8Chapter20Bank.dll
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\Question8Chapter20Bank.pdb
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\Question8Chapter20Bank.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\Question8Chapter20Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\Question8Chapter20Bank.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\Question8Chapter20Bank.AssemblyInfo.cs
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\Question8Chapter20Bank.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\Question8Chapter20Bank.dll
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\ref\Question8Chapter20Bank.dll
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\Question8Chapter20Bank.pdb
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\Question8Chapter20Bank.genruntimeconfig.cache

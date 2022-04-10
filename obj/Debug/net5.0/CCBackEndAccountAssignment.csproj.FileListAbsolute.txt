@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\CCBackEndAccountAssignment.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\CCBackEndAccountAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\CCBackEndAccountAssignment.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\CCBackEndAccountAssignment.AssemblyInfo.cs
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\CCBackEndAccountAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\CCBackEndAccountAssignment.exe
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\CCBackEndAccountAssignment.deps.json
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\CCBackEndAccountAssignment.runtimeconfig.json
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\CCBackEndAccountAssignment.runtimeconfig.dev.json
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\CCBackEndAccountAssignment.dll
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\ref\CCBackEndAccountAssignment.dll
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\bin\Debug\net5.0\CCBackEndAccountAssignment.pdb
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\CCBackEndAccountAssignment.dll
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\ref\CCBackEndAccountAssignment.dll
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\CCBackEndAccountAssignment.pdb
+C:\Users\dell\source\repos\CCBackEndAccountAssignment\obj\Debug\net5.0\CCBackEndAccountAssignment.genruntimeconfig.cache
